@@ -158,12 +158,51 @@ header{
     background-color:#dbff5921;
     border-radius: 8px;
 }
+.donation-activities{
+    width: 85%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.donation-activities h1, p{
+    text-align: center;
 
+}
+
+.donation-activities p{
+    color: gray;
+}
+
+.donation-picture{
+    display: flex;
+    margin-top: 20px;
+    width: 100%;
+    justify-content: center;
+    height: 225px;
+}
+
+.donation-picture2{
+    display: flex;
+    margin-bottom: 5px;
+    width: 100%;
+    justify-content: center;
+    height: 250px;
+}
+
+.donation-pic{
+    padding: 5px;
+    width: 30%;
+}
+
+.donation-pic img{
+    width: 100%;
+    height: 100%;
+}
 .get-updates{
     width: 60%;
     display: block;
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 .get-updates h1, p{
